@@ -49,6 +49,43 @@ Implemented email sending using **JavaMail API** on every successful booking:
 | 3️⃣ | Password Hashing | ⏳ To Do | SHA-256 or bcrypt |
 | 4️⃣ | QR Code Generation | ⏳ To Do | ZXing-based QR |
 | 5️⃣ | OTP Login | ⏳ To Do | Console OTP |
+
+
+
+
+
+
+
+👨‍💻 Author
+
+Anshdeep CSE student at Chitkara University 
+
+Current Project:
+I'm actively developing a Java-based Flight Management System, a console-driven application that includes features like:
+Role-based access (Admin, Agent, Passenger)
+Real-time booking with seat classes, food options, and simulated payments
+File-based I/O and data logging
+Email confirmations (v2.0)
+
+
+
+for contact -  anshdeeep24072004@gmail.com  /  anshdeep1779.be23@chitkara.edu.in
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | 6️⃣ | Search Filters | ⏳ To Do | By date, route, class |
 | 7️⃣ | Booking History | ⏳ To Do | View user’s booking list |
 | 8️⃣ | CSV Export | ⏳ To Do | Export all data to CSV |
