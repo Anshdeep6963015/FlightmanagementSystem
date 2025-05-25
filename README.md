@@ -44,7 +44,7 @@ Implemented email sending using **JavaMail API** on every successful booking:
 
 | Step | Feature | Status | Description |
 |------|---------|--------|-------------|
-| 1️⃣ | Email Confirmation | ✅ Done | Mail on booking |
+| 1️⃣ | Email Confirmation |  ⏳To Do | Mail on booking |
 | 2️⃣ | Admin Analytics | ⏳ To Do | Total bookings, revenue, top routes |
 | 3️⃣ | Password Hashing | ⏳ To Do | SHA-256 or bcrypt |
 | 4️⃣ | QR Code Generation | ⏳ To Do | ZXing-based QR |
