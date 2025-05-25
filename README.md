@@ -58,7 +58,7 @@ Implemented email sending using **JavaMail API** on every successful booking:
 
 ## Version 2.0 Uploaded
 
-The latest **Flight Management System 3.0** is now available on GitHub:  
+The latest **Flight Management System 2.0** is now available on GitHub:  
 [https://github.com/Anshdeep6963015/FlightmanagementSystem2.0](https://github.com/Anshdeep6963015/FlightManagementSystem2.0)
 
 
